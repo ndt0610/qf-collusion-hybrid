@@ -1,0 +1,14 @@
+# Phase 2 paired comparisons
+
+First minus second on positive target gain/B; negative favors first. n_trial_pairs=30, n_seed_blocks=10; bootstrap and sign flips use seed-block means to respect shared backgrounds. Values below 1e-12 pool fraction are treated as numerical zero. Holm is applied separately to each comparison family.
+
+| comparison_family | first | second | metric | n_trial_pairs | n_seed_blocks | n | mean_diff | median_diff | ci_low | ci_high | p_raw | p_holm |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ablation | soft_full | soft_base | delta_A_pos_pct | 30 | 10 | 10 | 0.01286107279519938 | 0.013392849549934985 | 0.011596932892719458 | 0.013887289863174845 | 0.001953125 | 0.0078125 |
+| ablation | soft_shapley | soft_base | delta_A_pos_pct | 30 | 10 | 10 | 0.01251090102631991 | 0.013032821910412985 | 0.011257427446931909 | 0.013529478511883372 | 0.001953125 | 0.0078125 |
+| ablation | soft_centrality | soft_base | delta_A_pos_pct | 30 | 10 | 10 | 2.5321531262773442e-05 | 2.460369093801694e-05 | 2.0269502331005932e-05 | 3.054123154774648e-05 | 0.001953125 | 0.0078125 |
+| ablation | soft_full | size_only | delta_A_pos_pct | 30 | 10 | 10 | 0.012660216626677604 | 0.013462685509555247 | 0.011302581036484002 | 0.013736512909411237 | 0.001953125 | 0.0078125 |
+| baseline | soft_full | standard_qf | delta_A_pos_pct | 30 | 10 | 10 | 0.009178188373124454 | 0.009869392370477667 | 0.00798216447504793 | 0.010203947586569262 | 0.001953125 | 0.0078125 |
+| baseline | soft_full | pairwise_qf | delta_A_pos_pct | 30 | 10 | 10 | 0.008355448094800818 | 0.009073324646059634 | 0.007151035977083385 | 0.009385687877941286 | 0.001953125 | 0.0078125 |
+| baseline | soft_full | coqf_paper2025_alg2 | delta_A_pos_pct | 30 | 10 | 10 | 0.02254173855399059 | 0.023000763535407833 | 0.021289782224032577 | 0.023621445538342556 | 0.001953125 | 0.0078125 |
+| baseline | soft_full | hard_cluster | delta_A_pos_pct | 30 | 10 | 10 | -0.006917358701688825 | -0.006770897054394204 | -0.011261348473009924 | -0.0022336340306475955 | 0.0234375 | 0.0234375 |

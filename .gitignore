@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+build/
+data/raw/
+data/processed/
+evm/node_modules/
+evm/artifacts/
+evm/cache/

@@ -1,0 +1,384 @@
+[
+  {
+    "dataset": "synthetic",
+    "seed": 100,
+    "family": "attack_free",
+    "graph_seconds": 0.06304089998593554,
+    "wall_seconds": 0.14628759998595342
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 100,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.10906360001536086,
+    "wall_seconds": 0.2851430999580771
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 100,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.10830829996848479,
+    "wall_seconds": 0.2980857000220567
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 100,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10664710000855848,
+    "wall_seconds": 0.2821364999981597
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "family": "attack_free",
+    "graph_seconds": 0.04550790000939742,
+    "wall_seconds": 0.13335550000192598
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.10938440001336858,
+    "wall_seconds": 0.3414589000167325
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.10521169996354729,
+    "wall_seconds": 0.2764527999679558
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10149040003307164,
+    "wall_seconds": 0.28082260000519454
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 102,
+    "family": "attack_free",
+    "graph_seconds": 0.04529229999752715,
+    "wall_seconds": 0.12344340002164245
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 102,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.14786159998038784,
+    "wall_seconds": 0.3432435999857262
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 102,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.09992459998466074,
+    "wall_seconds": 0.2859170000301674
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 102,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10500310006318614,
+    "wall_seconds": 0.2851487000589259
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 103,
+    "family": "attack_free",
+    "graph_seconds": 0.04432100005215034,
+    "wall_seconds": 0.12464320001890883
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 103,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.10611749993404374,
+    "wall_seconds": 0.2912596000242047
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 103,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.14274610002757981,
+    "wall_seconds": 0.3238404999137856
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 103,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10197319998405874,
+    "wall_seconds": 0.27411099994787946
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 104,
+    "family": "attack_free",
+    "graph_seconds": 0.04585160000715405,
+    "wall_seconds": 0.13149990001693368
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 104,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.10865230002673343,
+    "wall_seconds": 0.2988438000320457
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 104,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.1464523000176996,
+    "wall_seconds": 0.3328095999895595
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 104,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10329910001019016,
+    "wall_seconds": 0.2826055000186898
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 105,
+    "family": "attack_free",
+    "graph_seconds": 0.04347469995263964,
+    "wall_seconds": 0.12614240002585575
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 105,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.10649269999703392,
+    "wall_seconds": 0.28692549996776506
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 105,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.10110140003962442,
+    "wall_seconds": 0.32913680002093315
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 105,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10513819998595864,
+    "wall_seconds": 0.28538179997121915
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 106,
+    "family": "attack_free",
+    "graph_seconds": 0.05185889999847859,
+    "wall_seconds": 0.15224049997050315
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 106,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.1271843999857083,
+    "wall_seconds": 0.33628909999970347
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 106,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.1229472000268288,
+    "wall_seconds": 0.33100659999763593
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 106,
+    "family": "ring_4proj",
+    "graph_seconds": 0.1725561999483034,
+    "wall_seconds": 0.38207280001370236
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 107,
+    "family": "attack_free",
+    "graph_seconds": 0.04550459998426959,
+    "wall_seconds": 0.1342956000007689
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 107,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.10383550002006814,
+    "wall_seconds": 0.29379989992594346
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 107,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.1015929999994114,
+    "wall_seconds": 0.2875947999418713
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 107,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10228739999001846,
+    "wall_seconds": 0.28418720001354814
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 108,
+    "family": "attack_free",
+    "graph_seconds": 0.08725679997587577,
+    "wall_seconds": 0.1974496000329964
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 108,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.11075559997698292,
+    "wall_seconds": 0.2887625999865122
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 108,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.1082127999397926,
+    "wall_seconds": 0.2839219000306912
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 108,
+    "family": "ring_4proj",
+    "graph_seconds": 0.11183379997964948,
+    "wall_seconds": 0.3228753000148572
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 109,
+    "family": "attack_free",
+    "graph_seconds": 0.04771329998038709,
+    "wall_seconds": 0.13391319999936968
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 109,
+    "family": "decoy_camouflage",
+    "graph_seconds": 0.15280130004975945,
+    "wall_seconds": 0.3350477999774739
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 109,
+    "family": "cross_cluster_split",
+    "graph_seconds": 0.10586080001667142,
+    "wall_seconds": 0.2911617999779992
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 109,
+    "family": "ring_4proj",
+    "graph_seconds": 0.10411710001062602,
+    "wall_seconds": 0.2911041000043042
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "865",
+    "family": "attack_free",
+    "graph_seconds": 8.19696200004546,
+    "wall_seconds": 12.015208400029223
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "865",
+    "family": "pure_split_m40",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 16.3680355999968,
+    "wall_seconds": 23.43498720001662
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "865",
+    "family": "decoy_camouflage",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 16.836455500044394,
+    "wall_seconds": 24.370300200011116
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "865",
+    "family": "cross_cluster_split",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 16.369316299969796,
+    "wall_seconds": 22.970201799995266
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "867",
+    "family": "attack_free",
+    "graph_seconds": 2.5416005000006407,
+    "wall_seconds": 11.544488599989563
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "867",
+    "family": "pure_split_m40",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 5.1744276999961585,
+    "wall_seconds": 22.167090500006452
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "867",
+    "family": "decoy_camouflage",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 5.662948399956804,
+    "wall_seconds": 22.70842660003109
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "867",
+    "family": "cross_cluster_split",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 4.931805900007021,
+    "wall_seconds": 21.471935599984135
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "29",
+    "family": "attack_free",
+    "graph_seconds": 0.8607347999932244,
+    "wall_seconds": 4.179759800026659
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "29",
+    "family": "pure_split_m40",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 1.3932975000352599,
+    "wall_seconds": 7.826155699964147
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "29",
+    "family": "decoy_camouflage",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 1.7118643999565393,
+    "wall_seconds": 8.24451260000933
+  },
+  {
+    "dataset": "empirical",
+    "round_id": "29",
+    "family": "cross_cluster_split",
+    "seed_labels": 5,
+    "unique_world_pairs": 1,
+    "graph_seconds": 1.4515049000037834,
+    "wall_seconds": 7.771021900000051
+  }
+]

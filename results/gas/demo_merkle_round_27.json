@@ -1,0 +1,603 @@
+{
+  "root": "0xb31ebba2826f5ccc5c4518ff8b031b67b63b25282ba55ca7c3f2fa04fd836550",
+  "schema_version": "1",
+  "chain_id": "31337",
+  "vault_address": "0x1111111111111111111111111111111111111111",
+  "round_id": "27",
+  "asset_address": "0x0000000000000000000000000000000000000000",
+  "pool_amount": "100000000000000000000",
+  "unallocated_amount": "0",
+  "data_sha256": "3161fbaa42b4d2431e83f99832b3b8eb61bf371a6a05ac5a430528a87c4de774",
+  "config_sha256": "5961339cc2cdf24057f66de69d35b0820a4d5dd4eed8d94235c8eb8883d71f1e",
+  "manifest_canonical_sha256": "145c2886b9f0b5313654774d654655871b31481f599e373c8744699f9a5dd4d6",
+  "leaves": [
+    {
+      "grant_id": "1",
+      "recipient": "0x6984E01BadB090D2fb1815C1Be6AF421b55E6076",
+      "amount": "29818751435091546",
+      "proof": [
+        "0x2b3a545116a8db2c5c3a216d0af31a8c68d3d9f7da5d8da2ea027a25e52e00b4",
+        "0x2c3128964543d92232828895a80b4e0885e109e9a80dd8a991c48d3da4f5bcd7",
+        "0x8079530ae7430eff146639401b1954e1c0ef047aa1c58fb6b4f68712c7e7c54f",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "2",
+      "recipient": "0x3F3F0262a8B555b590Da55342b4dd8532587D2d9",
+      "amount": "2065422550908087613",
+      "proof": [
+        "0x07077e0e37de3250251efbedb07d777970e574addde5c681381999b5735039c9",
+        "0x455498c059e5658914f80caa1b3de9c0744b2a31b2a7d13a34fc77e117c343a4",
+        "0xe77515e2c25d2aa152c96cb7df1b116cd3541e1cadc94edfe2761535f48050a3",
+        "0x5011ab68f1e9f436a90e2b444331c2311213a12843157bc183bc800f1d8577c2",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "3",
+      "recipient": "0x70dF7d0A3b205F3e81d82c64C28443ffabD8881d",
+      "amount": "3357475717827443878",
+      "proof": [
+        "0x7883dde6c69f5bcca35e9d5bbb3cf44061184c0f11072a1087778e1aab475f48",
+        "0x87be253127090371797bf9050aa34e1ba756669bc2a46f0f4127e5399260b19b",
+        "0x437d4e1ce9006a9c2c65231bf7cc04b28f3cb08d27d6985b67afb423b56d9c0b",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "4",
+      "recipient": "0x1e3A47da9219c8f8D5223bF0880Ed28F17dc450b",
+      "amount": "612411920640699376",
+      "proof": [
+        "0x9ebce43dff91e6153ef6518e873a45478805f63b0364f78921b5e915f2f13283",
+        "0xf15a280c473feac7edef4a0299bad738a7ceea8a98d8a032d005448a934ce6e8",
+        "0x7051df06bf85883f93a0fee5b77e9ff3006e60fe60ab4b5a6071ec9a887b5242",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "5",
+      "recipient": "0x4170EC4D366082B3f9e903cd746970132D5Ec82E",
+      "amount": "1041742693667727426",
+      "proof": [
+        "0x807da0e1032a5519a9d4d5240a2cb3aee813645623fb086543c35e7f52203a90",
+        "0x58b8623efaf19d80563784f004ce20d05fd079394297f2c931f2e42a2b7d0230",
+        "0x58afb44e9d32b3d444fa9390ba8d621f4b06208ce86be4d92ae575f3b199ee89",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "6",
+      "recipient": "0xDF957DAb162b26Cd3258AC56814b6657646513a6",
+      "amount": "49106410209669334",
+      "proof": [
+        "0x2fda5eb3a505984dcd235c7f6bc972b212232485f921153bf62f6a828af0d24d",
+        "0x5ea29e4544eb98cdc6fa15b28ce7184a1596084570eb2b125c5c9383a243cb1a",
+        "0x581a8ca2db498b0092507a05e87794576aaac9e0982b55cbc2f0498c83223a84",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "7",
+      "recipient": "0xd214019d4849388AFc8fbCBFDEE56920f72a8232",
+      "amount": "4648125577463425932",
+      "proof": [
+        "0x981abd6c902fde096f45771258003c08f0dde81fe60068c2f70998f84879eb9e",
+        "0xbbf1d12bcb558e19bc136705f022a2ff8cc3e28695a5cba022d4aace7605372e",
+        "0xc9bf464d7eda903577355ac7355070431854b675f59cfffd55fa12aa96d6949b",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "8",
+      "recipient": "0x7757C700C73f381965D825Fe397Fd9A412fb6006",
+      "amount": "785890010763717775",
+      "proof": [
+        "0x02c8416516c4595e2b190edb62355ec044b1de81c77bcdd9cfafcfa83b9d65f7",
+        "0x410b17d01cf9db191f3c6193bfceb4c3a7add008b1acd153e878ba02bab38307",
+        "0xe77515e2c25d2aa152c96cb7df1b116cd3541e1cadc94edfe2761535f48050a3",
+        "0x5011ab68f1e9f436a90e2b444331c2311213a12843157bc183bc800f1d8577c2",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "9",
+      "recipient": "0x41adeD55905124a86dE0B91ee8a3C3046E9Aa5fc",
+      "amount": "2408338747196937282",
+      "proof": [
+        "0xccd9c6d42b54e1afeeea422e2a433ea9c16f960d80212393fa79d151018f6e0d",
+        "0xc1384d59e05807df64dafee84f366a33022f50f95d0ee35fbf2ea15849735d76",
+        "0xb0affbaeb4c8ae39b868f51a774c0ec87ddb935fb18e7720d99956e6cfa8d222",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "10",
+      "recipient": "0xC55cf73865554E3fA1dF1aa2757cBC755D1d413F",
+      "amount": "48137817528588593",
+      "proof": [
+        "0x04d45c0fe72d5502e94f80ce22c00a23f0efe0e5149b104c012a357e5d2a63bb",
+        "0x410b17d01cf9db191f3c6193bfceb4c3a7add008b1acd153e878ba02bab38307",
+        "0xe77515e2c25d2aa152c96cb7df1b116cd3541e1cadc94edfe2761535f48050a3",
+        "0x5011ab68f1e9f436a90e2b444331c2311213a12843157bc183bc800f1d8577c2",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "11",
+      "recipient": "0x60a1B983f3afc895B7D6A1dd3dA8E2BAd85e20D1",
+      "amount": "112608877121916130",
+      "proof": [
+        "0x0fdf081260b2bedc9869a99fc2eb9bed14d3fd3ea34daeb39c8ab277aa05f3c2",
+        "0xfb2982d6da9f727d1c681e246ad5070b28bda27d93319a852904e7ea2d3bb4ee",
+        "0x8079530ae7430eff146639401b1954e1c0ef047aa1c58fb6b4f68712c7e7c54f",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "12",
+      "recipient": "0x8D104ABc1ae19043dd8FB9C8a8f6C1168BE3f353",
+      "amount": "1145487220319697885",
+      "proof": [
+        "0xad36eb0ac8e971b4047c21fd7758e944546964b32f9d0736135278c2a0076ec7",
+        "0xd88f7a1d1df249d37785ad3a61ae26bdc4078bbf80c4cce9ba8f369383b0cce9",
+        "0x7051df06bf85883f93a0fee5b77e9ff3006e60fe60ab4b5a6071ec9a887b5242",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "13",
+      "recipient": "0x15F31dEab08021c0fd3Ebf658613b3249a62a6D0",
+      "amount": "1411699922812652227",
+      "proof": [
+        "0x95786a92e013a9ab9808793b3d57f8b3677b7f842ee8dcf69bb00218826c0138",
+        "0xcb6ed3af6a842fc73d43c4919de6a141b53538bbbadb78d5670519a30a26e593",
+        "0xc9bf464d7eda903577355ac7355070431854b675f59cfffd55fa12aa96d6949b",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "14",
+      "recipient": "0x7b583590f9D8d82c81a87898423f9Ab08B4a0C5d",
+      "amount": "74901914514975928",
+      "proof": [
+        "0x5d82245122895a2a7d1839ef0cc6c23871962a9ad137edb190e31e54c0f048db",
+        "0xb012f68ccb68f05435b1aecfb21be5ef4f302d7689adc8734927f0c4a71f0dda",
+        "0xe04b96812cf0ecc072d716208e9a929b8cc8cc881cb2a310730d2b00d44258a4",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "15",
+      "recipient": "0x54eD2FC9EE8D2050b916C424D456768ed0E7F822",
+      "amount": "1212098223364059961",
+      "proof": [
+        "0xddf1d7f8704978e51eb7edd1879391c4b829133db1280107b1f166dde5b5712e",
+        "0x03f1e29a94aba75da611b9aa03f4c466caf699aa59b1484947d0958fd135ed55",
+        "0xb0affbaeb4c8ae39b868f51a774c0ec87ddb935fb18e7720d99956e6cfa8d222",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "16",
+      "recipient": "0x270Ed89a84b1e6246b5Deed25Fb8B9d926C86d2A",
+      "amount": "2241110937919168272",
+      "proof": [
+        "0x200cb1b88fac163f67a98dc81c51bad2b8f7f6b6bea99f1b2f592f6ddafe6bbe",
+        "0x2c3128964543d92232828895a80b4e0885e109e9a80dd8a991c48d3da4f5bcd7",
+        "0x8079530ae7430eff146639401b1954e1c0ef047aa1c58fb6b4f68712c7e7c54f",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "17",
+      "recipient": "0x317f8D42D68a444De8395E6C4881ACFc33835D97",
+      "amount": "115569111610260086",
+      "proof": [
+        "0x56b4aa4959053d8c52a16021e7371cc580a57bd50eb6a8353dff4b76c18336ff",
+        "0x2028db25ea4676b759316987eb7cb7e93e9c30fa2f120946a513a406fe086495",
+        "0xe04b96812cf0ecc072d716208e9a929b8cc8cc881cb2a310730d2b00d44258a4",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "18",
+      "recipient": "0xc33ad495d3eF70B94fF926B905fabD135B9483B6",
+      "amount": "2457187642405112228",
+      "proof": [
+        "0x0eeba607e28d0dca3b8c1c02dacd639687bc1098c0772fe46c2976e13ab6348e",
+        "0x455498c059e5658914f80caa1b3de9c0744b2a31b2a7d13a34fc77e117c343a4",
+        "0xe77515e2c25d2aa152c96cb7df1b116cd3541e1cadc94edfe2761535f48050a3",
+        "0x5011ab68f1e9f436a90e2b444331c2311213a12843157bc183bc800f1d8577c2",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "19",
+      "recipient": "0xfA800D4b9F67F049315EEa9DcA34265f7B77C3C4",
+      "amount": "325965993223036699",
+      "proof": [
+        "0x809398aa788d95131f24b1485a835d5fb8b697d5791cc9cc9f13aed84bcfec67",
+        "0x58b8623efaf19d80563784f004ce20d05fd079394297f2c931f2e42a2b7d0230",
+        "0x58afb44e9d32b3d444fa9390ba8d621f4b06208ce86be4d92ae575f3b199ee89",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "20",
+      "recipient": "0x2CDa0F8Ef18905A7e4037DD2CF5cb6f9fD8f4Bf4",
+      "amount": "65049255746725263",
+      "proof": [
+        "0xad6939791a3aa6ca906c9b022e8312ae332e3cd011539260e74ebc3c24d3e58d",
+        "0x5dc53dedd26efb751ccca2f4d18bff896466cd39f146765de26a2ae4df77ae11",
+        "0x85a8998ecfcc31725347e686af4994df8d14d4e93be2870b714b8f0bfa95753a",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "21",
+      "recipient": "0x57428FE023a72CAC4b2B6d50432123d7Ba25D5EB",
+      "amount": "236874035799469478",
+      "proof": [
+        "0xb7e97988edb155d4b5e13dba9ab95c0012906bfd1af3c4adcb8eb3f7de43b085",
+        "0xd8685596ba0b7f4117f54a9699a513b7f41ee65727ef7622817919d443c37937",
+        "0xdd7f77e99403c6fce1112d0a1a836c697aa4a280dcd015a5fb7df3cd62f0a64a",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "22",
+      "recipient": "0x252d18fBbEF81C3Bc97194d6deE6B6405758433A",
+      "amount": "20240846514182398",
+      "proof": [
+        "0xc35008804f7513d5c42f5105d32b0fc41865931460b44344aeee02bb6de473aa",
+        "0xd7858d8ed4fbdce06674067846924586d965b58d35b17a9671edb066d31e1e97",
+        "0xdd7f77e99403c6fce1112d0a1a836c697aa4a280dcd015a5fb7df3cd62f0a64a",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "23",
+      "recipient": "0xec39b876499C317f1638998E2422E5A3fBcef897",
+      "amount": "1880770467936528604",
+      "proof": [
+        "0x365805620efa730dfc7da056cd6e8db752962920aa055211ac4f2bac3ecdc40a",
+        "0x1f3f88533488d3f6b215ac71099d2325d5fdadb43b2e8ccbf307fb4abdde7e51",
+        "0x581a8ca2db498b0092507a05e87794576aaac9e0982b55cbc2f0498c83223a84",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "24",
+      "recipient": "0x71d0F4ca132bd41fC4414A6da18973a10d623B65",
+      "amount": "53855483403600126",
+      "proof": [
+        "0xb4f940b87776ad9ba17963cf64067012c5aba03ed9112b104e3651653e75bb44",
+        "0xa419e4bfea303c12858888f1c12f0aa2669139f10df2c3415a96ba1004af6d2d",
+        "0x85a8998ecfcc31725347e686af4994df8d14d4e93be2870b714b8f0bfa95753a",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "25",
+      "recipient": "0x971e0942b49Ff73615fF6B25A0A86e48Fd7cEf41",
+      "amount": "4405987532588014176",
+      "proof": [
+        "0x671dc1cc327524a219659f0a8e397d8e8f5c5dba0f4c0fbf62c09dfe8ea93f47",
+        "0x6fe9fdf4e23a1a0b0fd5b42785586a17367f5b9af1ece94f000c65ac325d89fd",
+        "0x437d4e1ce9006a9c2c65231bf7cc04b28f3cb08d27d6985b67afb423b56d9c0b",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "26",
+      "recipient": "0x4998E5b7c867f214E391E086c3897eDCb4ED6291",
+      "amount": "176456656740138352",
+      "proof": [
+        "0x4018142c411e7cc8cf5075309c2ca2e5dda7689547d83b5be05c08caf3ad7e7c",
+        "0x1f3f88533488d3f6b215ac71099d2325d5fdadb43b2e8ccbf307fb4abdde7e51",
+        "0x581a8ca2db498b0092507a05e87794576aaac9e0982b55cbc2f0498c83223a84",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "27",
+      "recipient": "0xB36e46e2bd949dE2916123A80442D47Fc0F726DC",
+      "amount": "94550509390082518",
+      "proof": [
+        "0xdfc2e2dce0c00635b111348fa9f2c1d35a23dfe09a1ac40d02b68163a82f9a94",
+        "0x03f1e29a94aba75da611b9aa03f4c466caf699aa59b1484947d0958fd135ed55",
+        "0xb0affbaeb4c8ae39b868f51a774c0ec87ddb935fb18e7720d99956e6cfa8d222",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "28",
+      "recipient": "0x98290f4b59871768b69d05663c1846e37956C1Af",
+      "amount": "108634605420327902",
+      "proof": [
+        "0x515633399d1b42b371418a71cb2caab76f2a5b16f068aa6066c3c47718dff595",
+        "0x2028db25ea4676b759316987eb7cb7e93e9c30fa2f120946a513a406fe086495",
+        "0xe04b96812cf0ecc072d716208e9a929b8cc8cc881cb2a310730d2b00d44258a4",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "29",
+      "recipient": "0x039Cec72f9Fe07Ef796C8E2F26a9B65Bf16556fe",
+      "amount": "11289105436609543997",
+      "proof": [
+        "0x9da17683073e9663c7c3e305a01dc3511a94a8aa2c3d5d2ced4faed0ffe29075",
+        "0xf15a280c473feac7edef4a0299bad738a7ceea8a98d8a032d005448a934ce6e8",
+        "0x7051df06bf85883f93a0fee5b77e9ff3006e60fe60ab4b5a6071ec9a887b5242",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "30",
+      "recipient": "0x56451065286908F71Ec89059C903CF8496E698Ce",
+      "amount": "2273170271262003826",
+      "proof": [
+        "0x675fde8ac9be770f6e04ae10c29b0502288aaf84a37a3cefbd2e19acbba3add4",
+        "0x6fe9fdf4e23a1a0b0fd5b42785586a17367f5b9af1ece94f000c65ac325d89fd",
+        "0x437d4e1ce9006a9c2c65231bf7cc04b28f3cb08d27d6985b67afb423b56d9c0b",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "31",
+      "recipient": "0x924F336a2Ff1D7b321f30a930D6A8D45Ea216593",
+      "amount": "6382631928748771273",
+      "proof": [
+        "0xef76ee51927cd92811ad332a81fc46b92c6f6e44aff89b4f50fb92bd9546ac35",
+        "0x39c3a61b3619a513ae16a0b8b918ed478ee441eaf965bc46c70098ae91f832bc",
+        "0x5011ab68f1e9f436a90e2b444331c2311213a12843157bc183bc800f1d8577c2",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "32",
+      "recipient": "0xa1cB007E80c7AED3a0AcaEd4b1aA488002DD735b",
+      "amount": "25712516120107024771",
+      "proof": [
+        "0xca48703de3ec9d27846d5441cc3a8afd97c7958a583f4095940a9e849c88af08",
+        "0xd7858d8ed4fbdce06674067846924586d965b58d35b17a9671edb066d31e1e97",
+        "0xdd7f77e99403c6fce1112d0a1a836c697aa4a280dcd015a5fb7df3cd62f0a64a",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "33",
+      "recipient": "0xcB13CdeB2249DF15AdE595c1207588C7fE16eF84",
+      "amount": "58895351835456503",
+      "proof": [
+        "0xc19552935cb12863604aebb597428ceaa9351a1f9c3402691e9876bc7b4aca75",
+        "0xd8685596ba0b7f4117f54a9699a513b7f41ee65727ef7622817919d443c37937",
+        "0xdd7f77e99403c6fce1112d0a1a836c697aa4a280dcd015a5fb7df3cd62f0a64a",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "34",
+      "recipient": "0x59a0Ea15Ace8A7C0dc637bE7a242fe4115167480",
+      "amount": "5162599029749071200",
+      "proof": [
+        "0x1e13bd8daa667c1b83ac16ec2389d684494ae5d3574046082f80aab1575627f5",
+        "0xfb2982d6da9f727d1c681e246ad5070b28bda27d93319a852904e7ea2d3bb4ee",
+        "0x8079530ae7430eff146639401b1954e1c0ef047aa1c58fb6b4f68712c7e7c54f",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "35",
+      "recipient": "0x6bF2D8F31d7E2Ee77dfd1c805aF2016277402622",
+      "amount": "282570523792346924",
+      "proof": [
+        "0xdc32048eda6536f753c1f317cdd3e070f1a35723c79845338daf80fdb23c0568",
+        "0xc1384d59e05807df64dafee84f366a33022f50f95d0ee35fbf2ea15849735d76",
+        "0xb0affbaeb4c8ae39b868f51a774c0ec87ddb935fb18e7720d99956e6cfa8d222",
+        "0xef0fa71dce701144cf077bcdb09b39d784fb95ba18875ef5bdea3d2f9a965123",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "36",
+      "recipient": "0xe9b77CB9D0aAA48497EAd2A2282733f78aD0ccB5",
+      "amount": "191728465428895032",
+      "proof": [
+        "0x9d512f92464bd807e492a649f814c82e2d7a73a4b61ca5fede6df3ca91a4598f",
+        "0xbbf1d12bcb558e19bc136705f022a2ff8cc3e28695a5cba022d4aace7605372e",
+        "0xc9bf464d7eda903577355ac7355070431854b675f59cfffd55fa12aa96d6949b",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "37",
+      "recipient": "0xEB385d2809B9faEf087a6Fbd9537A6F58100ABa5",
+      "amount": "495375241282875327",
+      "proof": [
+        "0xe41afd525830877639aacfbfb7f54beab1d7b798b7d2ffa55e67fdf73e5d3a66",
+        "0x39c3a61b3619a513ae16a0b8b918ed478ee441eaf965bc46c70098ae91f832bc",
+        "0x5011ab68f1e9f436a90e2b444331c2311213a12843157bc183bc800f1d8577c2",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "38",
+      "recipient": "0xa135E2686253e34d34283ab414b0B03B2768Fa6f",
+      "amount": "1229684025959083654",
+      "proof": [
+        "0xb658abbd769656848c30f353fd1405777d28713a4c11f8ab67609728eab8c8e1",
+        "0xa419e4bfea303c12858888f1c12f0aa2669139f10df2c3415a96ba1004af6d2d",
+        "0x85a8998ecfcc31725347e686af4994df8d14d4e93be2870b714b8f0bfa95753a",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "39",
+      "recipient": "0x2767919d8CCa47A492E24f1dB844Ca5f5c29Ce0B",
+      "amount": "13614719109817911161",
+      "proof": [
+        "0xad0626d5f7688c3467f20c065c82df628a62299de4a176a8e81aa73f672f5f65",
+        "0xd88f7a1d1df249d37785ad3a61ae26bdc4078bbf80c4cce9ba8f369383b0cce9",
+        "0x7051df06bf85883f93a0fee5b77e9ff3006e60fe60ab4b5a6071ec9a887b5242",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    },
+    {
+      "grant_id": "40",
+      "recipient": "0x834601d9CEE3C906ADdb785De869b074Fd1D8bE6",
+      "amount": "87645765482867764",
+      "proof": [
+        "0x94a01b73b59a02d3e1365699b76886a76367a513662a0a12dfa6f90a99168279",
+        "0x059c9622211c9d956719f698867ffaf4b7b972f6496ff3a38e6647b58999afda",
+        "0x58afb44e9d32b3d444fa9390ba8d621f4b06208ce86be4d92ae575f3b199ee89",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "41",
+      "recipient": "0x0c5a9c5F41955d69750b4E751706d01b9B6fb725",
+      "amount": "96843288885316201",
+      "proof": [
+        "0x95ea1b260584f665a29a71739c4f2d46dcb3632a4426e39d41c3a7d43d4d4dde",
+        "0xcb6ed3af6a842fc73d43c4919de6a141b53538bbbadb78d5670519a30a26e593",
+        "0xc9bf464d7eda903577355ac7355070431854b675f59cfffd55fa12aa96d6949b",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "42",
+      "recipient": "0x5f714f2ccf897847cd47b77614936114799A3e4E",
+      "amount": "67222497156817028",
+      "proof": [
+        "0x79c73b263b08d08d4c008a8c7477933374719e6f2907fc2e0a366798abd64737",
+        "0x87be253127090371797bf9050aa34e1ba756669bc2a46f0f4127e5399260b19b",
+        "0x437d4e1ce9006a9c2c65231bf7cc04b28f3cb08d27d6985b67afb423b56d9c0b",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "43",
+      "recipient": "0x795a35fEeCae0d1be9d484b7e01c1E78A3A1B63B",
+      "amount": "64522365342606712",
+      "proof": [
+        "0x2da59b01940e256fe556f6d17597d21eddc18f57a7195b64a90cf0b74e289adc",
+        "0x5ea29e4544eb98cdc6fa15b28ce7184a1596084570eb2b125c5c9383a243cb1a",
+        "0x581a8ca2db498b0092507a05e87794576aaac9e0982b55cbc2f0498c83223a84",
+        "0xc8847bf7a943d779127e6db9eff2f9f157041f15a759386a7e2ef4b88c9b77cd",
+        "0x088ab1d81f04539b83cddf9b32bb1442be8725ec34e352165f19bc4d6fe9511b",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "44",
+      "recipient": "0xB5eeE78Bed86e722BA55dedf69196FaEeCFb9536",
+      "amount": "1600678808946702344",
+      "proof": [
+        "0x8b89ae5ce1d00872aba397655140e38b706277c93ee4045538d1417df2cdd9fa",
+        "0x059c9622211c9d956719f698867ffaf4b7b972f6496ff3a38e6647b58999afda",
+        "0x58afb44e9d32b3d444fa9390ba8d621f4b06208ce86be4d92ae575f3b199ee89",
+        "0x87dea6df83bc00102cfbc808f4346d11afe614803fbf90bd3f905e43b82cab57",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "45",
+      "recipient": "0x97C237723d1893a29F38D53254147D0F85A6fdA1",
+      "amount": "66552371973843323",
+      "proof": [
+        "0x5b08dac445300a61b0deebf14a8a5cf34f4e61b92c6ab6fd5d873e537297c537",
+        "0xb012f68ccb68f05435b1aecfb21be5ef4f302d7689adc8734927f0c4a71f0dda",
+        "0xe04b96812cf0ecc072d716208e9a929b8cc8cc881cb2a310730d2b00d44258a4",
+        "0xacfaf50b77686e8e9a11557e98b740f878d73f12eb729dc90ab98d5c78e69830",
+        "0xd53c3080ef24ad9fb753a088a3ef5fa29ea642caf77af00e1cf5df7010da3e41",
+        "0xdee44d098fe17c52eaf36ae520e5fdd8759584f76b0cf82b9d28db3193efe3ae"
+      ]
+    },
+    {
+      "grant_id": "46",
+      "recipient": "0x732248E1EC39E8Abc9A842364913b4b633f3a747",
+      "amount": "138019963147525972",
+      "proof": [
+        "0xae9070910820d38327c308c79544283a8d248fae1789b62927f6fd18357b7f72",
+        "0x5dc53dedd26efb751ccca2f4d18bff896466cd39f146765de26a2ae4df77ae11",
+        "0x85a8998ecfcc31725347e686af4994df8d14d4e93be2870b714b8f0bfa95753a",
+        "0xb017285dfc80b45d1a38c3088fae7097ca15a5ed018b8f6de0d6a91bb78395a9",
+        "0x5f977e99bb0d60e8ddd80859b4984f08c1fea8d9fd3b349d09e0da93cd0aa249"
+      ]
+    }
+  ],
+  "demo_metadata": {
+    "source_round": "42161:27",
+    "mechanism": "soft_base",
+    "test_chain_id": "31337",
+    "demo_vault_address": "0x1111111111111111111111111111111111111111",
+    "deployed_on_chain": false,
+    "note": "Fixed local demo commitment; root is not published on a live chain"
+  }
+}

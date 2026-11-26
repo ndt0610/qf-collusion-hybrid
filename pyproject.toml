@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qf-collusion-hybrid"
+version = "0.1.0"
+description = "Research core for community-aware quadratic funding"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "numpy==2.4.1",
+  "scipy==1.17.1",
+  "networkx==3.6.1",
+  "pandas==3.0.2",
+  "pyarrow==24.0.0",
+  "psutil==7.2.1",
+  "matplotlib==3.11.2",
+  "eth-utils==5.3.1",
+  "pycryptodome==4.6.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest==9.1.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

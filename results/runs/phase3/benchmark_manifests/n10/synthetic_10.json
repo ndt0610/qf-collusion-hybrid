@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "kind": "native",
+    "note": "Local EVM test pool proportional to research allocation; not a USD-to-ETH conversion",
+    "unit": "wei"
+  },
+  "chain_id": "31337",
+  "config_sha256": "bc05fdcee78c419be3bfa8dbf30a66a4dbe76fad92f0d662f9e93c94f6883c2e",
+  "data_sha256": "ef69412db8c81722298d278dd2f48256bf3fbae4879b8022950235d61a99f808",
+  "leaf_abi_types": [
+    "uint256",
+    "uint256",
+    "address",
+    "address",
+    "uint256",
+    "uint256",
+    "address",
+    "uint256"
+  ],
+  "payouts": [
+    {
+      "amount": "18181818181818181818",
+      "grant_id": "1",
+      "recipient": "0x9D866D277555B8030355D9632ba4CA144407C6fb"
+    },
+    {
+      "amount": "16363636363636363636",
+      "grant_id": "2",
+      "recipient": "0x4ACB044f5fA16C9b3b9f91742B84ec7197C59F98"
+    },
+    {
+      "amount": "14545454545454545455",
+      "grant_id": "3",
+      "recipient": "0x359Dca2bE434d88AB40Ad33b8Dc05AafFB781561"
+    },
+    {
+      "amount": "12727272727272727273",
+      "grant_id": "4",
+      "recipient": "0xf884B10aCf84501A08E5F299Ea996Aa3095CA98d"
+    },
+    {
+      "amount": "10909090909090909091",
+      "grant_id": "5",
+      "recipient": "0xE372d1F40E5Dd9F1A9Fd25349Dc287431Cd71950"
+    },
+    {
+      "amount": "9090909090909090909",
+      "grant_id": "6",
+      "recipient": "0x4A064B535728e49A28f1C00c265ACCbe2b0f43d9"
+    },
+    {
+      "amount": "7272727272727272727",
+      "grant_id": "7",
+      "recipient": "0x1988c69B3De27bFCF8471e3438fd12DE46AA6fE0"
+    },
+    {
+      "amount": "5454545454545454545",
+      "grant_id": "8",
+      "recipient": "0xe08721ff5924ef6720E3E36816cf6Df96b44f70a"
+    },
+    {
+      "amount": "3636363636363636364",
+      "grant_id": "9",
+      "recipient": "0x7ecf8bEd46EE57b99aC3D05Bd388F68E65b6C9a1"
+    },
+    {
+      "amount": "1818181818181818182",
+      "grant_id": "10",
+      "recipient": "0xE86BbD68F7cad607A86dc18Aa147C19DC369B95a"
+    }
+  ],
+  "pool_amount": "100000000000000000000",
+  "research": {
+    "evm_pool_is_independent": true,
+    "kind": "synthetic_benchmark",
+    "project_count": 10,
+    "weight_rule": "descending_integer"
+  },
+  "round_id": "10010",
+  "schema_version": "1",
+  "unallocated_amount": "0",
+  "vault_address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+}

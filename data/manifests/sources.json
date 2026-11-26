@@ -1,0 +1,9 @@
+{
+  "data_license": "unverified",
+  "portal_repository_commit": "a67cb98e19e757c9c94c4cf178b914e845697b00",
+  "files": {
+    "donations.parquet": {"url": "https://data.grantsdataportal.xyz/donations.parquet", "sha256": "34a615c30a6cd34788b9367c65423fd03272ea7fc72497b46d09a78b174aa189"},
+    "rounds.parquet": {"url": "https://data.grantsdataportal.xyz/rounds.parquet", "sha256": "e9956b85463d30e65a1305fcb55ec48d04304142387054811b70d543e6e1985d"},
+    "applications.parquet": {"url": "https://data.grantsdataportal.xyz/applications.parquet", "sha256": "e82ae0795af1a59fc20b2c176a47cdeb54f3323bba087f91c0004027a20feece"}
+  }
+}

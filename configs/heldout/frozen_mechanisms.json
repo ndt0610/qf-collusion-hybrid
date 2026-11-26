@@ -1,0 +1,325 @@
+{
+  "dev_wall_seconds": 139.01401089999126,
+  "empirical_seed_replicates": "deterministic identical design; one unique world pair per family",
+  "hard_cluster_graph_source": "soft_full at delta=0.05",
+  "louvain_seed": 42,
+  "phase": 2,
+  "pool_empirical": 100000,
+  "pool_synthetic": 10000,
+  "protocol_sha256": "408f7c9835f276d689c7f5e3643a63c31c258527ed41539f7a85a7d3769d5113",
+  "schema_version": 1,
+  "selected": {
+    "0.02": {
+      "pairwise_qf": {
+        "beta": {
+          "tau": 500
+        },
+        "dev_attack_gain": 0.010780508935885443,
+        "dev_mech_damage": 0.012051608131050065,
+        "graph_key": null,
+        "infeasible_at_delta": false
+      },
+      "size_only": {
+        "beta": {
+          "beta0": 0.0,
+          "centrality": 0.0,
+          "coh": 0.0,
+          "conc": 0.0,
+          "shapley": 0.0,
+          "size": 0.5
+        },
+        "dev_attack_gain": 0.009384960266974237,
+        "dev_mech_damage": 0.016155111262212033,
+        "graph_key": [
+          "G2",
+          10,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_base": {
+        "beta": {
+          "beta0": -0.5,
+          "centrality": 0.0,
+          "coh": 0.8,
+          "conc": 0.4,
+          "shapley": 0.0,
+          "size": 0.0
+        },
+        "dev_attack_gain": 0.0037357868050338083,
+        "dev_mech_damage": 0.017536089814896853,
+        "graph_key": [
+          "G2",
+          40,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_centrality": {
+        "beta": {
+          "beta0": -0.5,
+          "centrality": -0.6,
+          "coh": 0.8,
+          "conc": 0.4,
+          "shapley": 0.0,
+          "size": 0.0
+        },
+        "dev_attack_gain": 0.0037244230838149165,
+        "dev_mech_damage": 0.017687971398399525,
+        "graph_key": [
+          "G2",
+          40,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_full": {
+        "beta": {
+          "beta0": -0.5,
+          "centrality": 0.6,
+          "coh": 0.0,
+          "conc": 0.8,
+          "shapley": 0.4,
+          "size": 0.0
+        },
+        "dev_attack_gain": 0.002495603654589747,
+        "dev_mech_damage": 0.01902665127260582,
+        "graph_key": [
+          "G2",
+          20,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_shapley": {
+        "beta": {
+          "beta0": -0.5,
+          "centrality": 0.0,
+          "coh": 0.0,
+          "conc": 0.8,
+          "shapley": 0.4,
+          "size": 0.0
+        },
+        "dev_attack_gain": 0.002501707902266356,
+        "dev_mech_damage": 0.01846961314588563,
+        "graph_key": [
+          "G2",
+          20,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      }
+    },
+    "0.05": {
+      "pairwise_qf": {
+        "beta": {
+          "tau": 500
+        },
+        "dev_attack_gain": 0.010780508935885443,
+        "dev_mech_damage": 0.012051608131050065,
+        "graph_key": null,
+        "infeasible_at_delta": false
+      },
+      "size_only": {
+        "beta": {
+          "beta0": 0.0,
+          "centrality": 0.0,
+          "coh": 0.0,
+          "conc": 0.0,
+          "shapley": 0.0,
+          "size": 0.8
+        },
+        "dev_attack_gain": 0.00919253579239358,
+        "dev_mech_damage": 0.030932944627342498,
+        "graph_key": [
+          "G2",
+          10,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_base": {
+        "beta": {
+          "beta0": -0.5,
+          "centrality": 0.0,
+          "coh": 0.8,
+          "conc": 0.8,
+          "shapley": 0.0,
+          "size": 0.0
+        },
+        "dev_attack_gain": 0.000615942855755224,
+        "dev_mech_damage": 0.042667500348569136,
+        "graph_key": [
+          "G2",
+          40,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_centrality": {
+        "beta": {
+          "beta0": -0.5,
+          "centrality": -0.6,
+          "coh": 0.8,
+          "conc": 0.8,
+          "shapley": 0.0,
+          "size": 0.0
+        },
+        "dev_attack_gain": 0.0006136902489932219,
+        "dev_mech_damage": 0.04220495566513236,
+        "graph_key": [
+          "G2",
+          40,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_full": {
+        "beta": {
+          "beta0": -0.25,
+          "centrality": -0.6,
+          "coh": 0.0,
+          "conc": 0.8,
+          "shapley": 0.8,
+          "size": 0.0
+        },
+        "dev_attack_gain": 1.7855534212666056e-19,
+        "dev_mech_damage": 0.04993116551387756,
+        "graph_key": [
+          "G2",
+          10,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_shapley": {
+        "beta": {
+          "beta0": -0.25,
+          "centrality": 0.0,
+          "coh": 0.0,
+          "conc": 0.8,
+          "shapley": 0.8,
+          "size": 0.0
+        },
+        "dev_attack_gain": 1.7982560163090126e-19,
+        "dev_mech_damage": 0.0492632400673635,
+        "graph_key": [
+          "G2",
+          10,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      }
+    },
+    "0.1": {
+      "pairwise_qf": {
+        "beta": {
+          "tau": 500
+        },
+        "dev_attack_gain": 0.010780508935885443,
+        "dev_mech_damage": 0.012051608131050065,
+        "graph_key": null,
+        "infeasible_at_delta": false
+      },
+      "size_only": {
+        "beta": {
+          "beta0": 0.0,
+          "centrality": 0.0,
+          "coh": 0.0,
+          "conc": 0.0,
+          "shapley": 0.0,
+          "size": 1.2
+        },
+        "dev_attack_gain": 0.008338343215056367,
+        "dev_mech_damage": 0.06718931075654895,
+        "graph_key": [
+          "G1",
+          10,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_base": {
+        "beta": {
+          "beta0": -0.25,
+          "centrality": 0.0,
+          "coh": 0.8,
+          "conc": 0.8,
+          "shapley": 0.0,
+          "size": 0.0
+        },
+        "dev_attack_gain": 2.4991605683746684e-19,
+        "dev_mech_damage": 0.051877025079959144,
+        "graph_key": [
+          "G2",
+          40,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_centrality": {
+        "beta": {
+          "beta0": -0.25,
+          "centrality": -0.6,
+          "coh": 0.8,
+          "conc": 0.8,
+          "shapley": 0.0,
+          "size": 0.0
+        },
+        "dev_attack_gain": 2.4880401899981365e-19,
+        "dev_mech_damage": 0.051247663803007305,
+        "graph_key": [
+          "G2",
+          40,
+          0.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_full": {
+        "beta": {
+          "beta0": -0.25,
+          "centrality": -0.6,
+          "coh": 0.0,
+          "conc": 0.8,
+          "shapley": 0.8,
+          "size": 0.0
+        },
+        "dev_attack_gain": 7.06495980873762e-20,
+        "dev_mech_damage": 0.09867230816119286,
+        "graph_key": [
+          "G2",
+          10,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      },
+      "soft_shapley": {
+        "beta": {
+          "beta0": -0.25,
+          "centrality": 0.0,
+          "coh": 0.0,
+          "conc": 0.8,
+          "shapley": 0.8,
+          "size": 0.0
+        },
+        "dev_attack_gain": 7.140138020428739e-20,
+        "dev_mech_damage": 0.09864922155055685,
+        "graph_key": [
+          "G2",
+          10,
+          1.5
+        ],
+        "infeasible_at_delta": false
+      }
+    }
+  },
+  "source_manifest_sha256": "cae6c4e4d9b429ed5a1c94e90f69a57ab9b787f4ebc1065dcc6dc2a1862e29bf",
+  "split": {
+    "dev": "42161:27",
+    "heldout": [
+      "42161:865",
+      "42161:867"
+    ],
+    "sensitivity": "42161:29"
+  }
+}

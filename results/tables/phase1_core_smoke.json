@@ -1,0 +1,58 @@
+{
+  "round": "42161:27",
+  "graph": {
+    "method": "G1",
+    "k": 10,
+    "donors": 3750,
+    "edges_after_topk_union": 32416
+  },
+  "clusters": 38,
+  "methods": {
+    "standard_qf": {
+      "projects": 46,
+      "raw_score_total": 12834250.680767,
+      "seconds": 0.01
+    },
+    "pairwise_qf": {
+      "projects": 46,
+      "raw_score_total": 10317981.683179,
+      "seconds": 3.757
+    },
+    "coqf_paper2025_alg2": {
+      "projects": 46,
+      "raw_score_total": 422830.620247,
+      "seconds": 1.733
+    },
+    "hard_cluster": {
+      "projects": 46,
+      "raw_score_total": 312828.406399,
+      "seconds": 0.014
+    },
+    "size_only": {
+      "projects": 46,
+      "raw_score_total": 6958775.097834,
+      "seconds": 0.016
+    },
+    "soft_base": {
+      "projects": 46,
+      "raw_score_total": 3098718.786403,
+      "seconds": 0.016
+    },
+    "soft_shapley": {
+      "projects": 46,
+      "raw_score_total": 2318813.717015,
+      "seconds": 0.017
+    },
+    "soft_centrality": {
+      "projects": 46,
+      "raw_score_total": 3057342.205087,
+      "seconds": 0.013
+    },
+    "soft_full": {
+      "projects": 46,
+      "raw_score_total": 2284969.343903,
+      "seconds": 0.013
+    }
+  },
+  "scope": "one configuration, no tuning, no attacker injection; integration feasibility only"
+}

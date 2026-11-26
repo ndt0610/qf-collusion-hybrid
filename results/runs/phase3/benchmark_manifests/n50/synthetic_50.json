@@ -1,0 +1,285 @@
+{
+  "asset": {
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "kind": "native",
+    "note": "Local EVM test pool proportional to research allocation; not a USD-to-ETH conversion",
+    "unit": "wei"
+  },
+  "chain_id": "31337",
+  "config_sha256": "3beb8ea3610caf4bb97e82d831f42cff6224e710449e3c40dc940663bcb55613",
+  "data_sha256": "e7e5d5213fe2d8cc5a54b877e28737a856cc31fd0da8b8693bd9249b8db04eb0",
+  "leaf_abi_types": [
+    "uint256",
+    "uint256",
+    "address",
+    "address",
+    "uint256",
+    "uint256",
+    "address",
+    "uint256"
+  ],
+  "payouts": [
+    {
+      "amount": "3921568627450980392",
+      "grant_id": "1",
+      "recipient": "0xB40D8051e321296f0c507B291fe0B23382d14a29"
+    },
+    {
+      "amount": "3843137254901960784",
+      "grant_id": "2",
+      "recipient": "0xC613098f558fB577d64E15FAD0224498767D0daE"
+    },
+    {
+      "amount": "3764705882352941176",
+      "grant_id": "3",
+      "recipient": "0x1621c3ab1005a3eDE8Dcd235E3F778C76492ce89"
+    },
+    {
+      "amount": "3686274509803921569",
+      "grant_id": "4",
+      "recipient": "0x39A8eB0cb92Ef3AaC1738248386DC5D5510e8115"
+    },
+    {
+      "amount": "3607843137254901961",
+      "grant_id": "5",
+      "recipient": "0x8D8A056305347dCB9177996A0428A65B132932Dc"
+    },
+    {
+      "amount": "3529411764705882353",
+      "grant_id": "6",
+      "recipient": "0x0d9BCBc3Fdd22324cDC557b5a6B667caebeDff4e"
+    },
+    {
+      "amount": "3450980392156862745",
+      "grant_id": "7",
+      "recipient": "0xa8c3eb6bfcFC1F219E6f605cad265611f8dfDC77"
+    },
+    {
+      "amount": "3372549019607843137",
+      "grant_id": "8",
+      "recipient": "0x6BDb212Ce3E0f87D6FA7b370F3813057cc3d11bd"
+    },
+    {
+      "amount": "3294117647058823529",
+      "grant_id": "9",
+      "recipient": "0xF5768fD8a6Ae221eB27e06d5BDA33a1405eCD909"
+    },
+    {
+      "amount": "3215686274509803922",
+      "grant_id": "10",
+      "recipient": "0x61a3D5408852025a3896A9DafCfBf5D3f18521cE"
+    },
+    {
+      "amount": "3137254901960784314",
+      "grant_id": "11",
+      "recipient": "0xa57fD566546a9889E4dc7dFea0e07D8fC14C1F7F"
+    },
+    {
+      "amount": "3058823529411764706",
+      "grant_id": "12",
+      "recipient": "0x8D6c23d6F09B3C378C56Dd47Fa09a3A309CA5752"
+    },
+    {
+      "amount": "2980392156862745098",
+      "grant_id": "13",
+      "recipient": "0xA12Eb9A582f4327dc6929362Eb9846694998829d"
+    },
+    {
+      "amount": "2901960784313725490",
+      "grant_id": "14",
+      "recipient": "0x85872225932B7a2591730B4364ad33780e7C9916"
+    },
+    {
+      "amount": "2823529411764705882",
+      "grant_id": "15",
+      "recipient": "0x4363650FD57745CDc8BCe94B48aa3299a5cB9e4d"
+    },
+    {
+      "amount": "2745098039215686275",
+      "grant_id": "16",
+      "recipient": "0x5d04d1CC87B6e7f0F8Ed0D24847F8aDC91245bDb"
+    },
+    {
+      "amount": "2666666666666666667",
+      "grant_id": "17",
+      "recipient": "0xeF3137bbdCD00167446e89b23ACad047D5e1c8F1"
+    },
+    {
+      "amount": "2588235294117647059",
+      "grant_id": "18",
+      "recipient": "0xed8E087Ba5833b406aDe353440b4d3A8f0a5e627"
+    },
+    {
+      "amount": "2509803921568627451",
+      "grant_id": "19",
+      "recipient": "0x90171E87850231F6d35F995E1ebAEc521bAd7fE1"
+    },
+    {
+      "amount": "2431372549019607843",
+      "grant_id": "20",
+      "recipient": "0xcd64F88866B3B290782265f284bEa4cC856f9022"
+    },
+    {
+      "amount": "2352941176470588235",
+      "grant_id": "21",
+      "recipient": "0x0a7352d60283a5f734e873D306BD631aAaAc997b"
+    },
+    {
+      "amount": "2274509803921568627",
+      "grant_id": "22",
+      "recipient": "0xb414795660f85D2A2f57Dd4f38D886E3AfA91984"
+    },
+    {
+      "amount": "2196078431372549020",
+      "grant_id": "23",
+      "recipient": "0x5a35F65d459Fca4Aa0189a818A687b5CB2DEE3a0"
+    },
+    {
+      "amount": "2117647058823529412",
+      "grant_id": "24",
+      "recipient": "0xc6cc25B5934a7e7eB48bdd7b988A6d3d5e08d352"
+    },
+    {
+      "amount": "2039215686274509804",
+      "grant_id": "25",
+      "recipient": "0x83116eD5830656EDa2BB0673dD00242f28c9F1dA"
+    },
+    {
+      "amount": "1960784313725490196",
+      "grant_id": "26",
+      "recipient": "0x59202dff320AbC88d40227214c0bD416429CEd45"
+    },
+    {
+      "amount": "1882352941176470588",
+      "grant_id": "27",
+      "recipient": "0x0E694C4272fcFB549843A6E9De39cb3B9f27b973"
+    },
+    {
+      "amount": "1803921568627450980",
+      "grant_id": "28",
+      "recipient": "0x4c69e4C1a9aF6E8A439CC456b2DCdB5B6aA1B613"
+    },
+    {
+      "amount": "1725490196078431373",
+      "grant_id": "29",
+      "recipient": "0xa9e358b9962879c367563bfEfA542E2378bd8098"
+    },
+    {
+      "amount": "1647058823529411765",
+      "grant_id": "30",
+      "recipient": "0x2C66b28Fa79bDfaAcAE79f9a167db82353CA7de1"
+    },
+    {
+      "amount": "1568627450980392157",
+      "grant_id": "31",
+      "recipient": "0x3466F04DAcE49465e43c0Fe28d8d9A519032717D"
+    },
+    {
+      "amount": "1490196078431372549",
+      "grant_id": "32",
+      "recipient": "0xC4EfB987580FB27813f82cbA97D53D565B2A50C1"
+    },
+    {
+      "amount": "1411764705882352941",
+      "grant_id": "33",
+      "recipient": "0x5A67F7908863Ef64f6D088d58d71B4868828f56B"
+    },
+    {
+      "amount": "1333333333333333333",
+      "grant_id": "34",
+      "recipient": "0xcfcD92b0814Ce9F740eFf0696a99e83c227856B8"
+    },
+    {
+      "amount": "1254901960784313725",
+      "grant_id": "35",
+      "recipient": "0xc8C516b9535ee8e3688a7cF8456c2f5296d7DE31"
+    },
+    {
+      "amount": "1176470588235294118",
+      "grant_id": "36",
+      "recipient": "0x292841fAE34F9AEEaED9a54f7C49cEAef52A06e4"
+    },
+    {
+      "amount": "1098039215686274510",
+      "grant_id": "37",
+      "recipient": "0x9a99C2756C0950906B74E4FF2d356D3000dc853e"
+    },
+    {
+      "amount": "1019607843137254902",
+      "grant_id": "38",
+      "recipient": "0xa1031857Ac66B42d8AeA86921fCc0076d6b3844C"
+    },
+    {
+      "amount": "941176470588235294",
+      "grant_id": "39",
+      "recipient": "0x5593DD723D9C82E8C42864165b0fC0037ea31951"
+    },
+    {
+      "amount": "862745098039215686",
+      "grant_id": "40",
+      "recipient": "0x2F93Bacbc0aBfC0930dEA94037e3E7d4Ef147F7C"
+    },
+    {
+      "amount": "784313725490196078",
+      "grant_id": "41",
+      "recipient": "0x4791d052ef54a61A88F7A523a9cB495A8b51b246"
+    },
+    {
+      "amount": "705882352941176471",
+      "grant_id": "42",
+      "recipient": "0xe22be40Ec71DBB1574124EAe11f7447aBB3945EE"
+    },
+    {
+      "amount": "627450980392156863",
+      "grant_id": "43",
+      "recipient": "0xD3516b87Fc74C7cd982803BCa2Dc15B17183C0A3"
+    },
+    {
+      "amount": "549019607843137255",
+      "grant_id": "44",
+      "recipient": "0x3D9224F9Fb97dE8Bd28257f6Fc1C6Dfe12CAD9b1"
+    },
+    {
+      "amount": "470588235294117647",
+      "grant_id": "45",
+      "recipient": "0x5091961c48d7efa2A315c5cAFa8dB1497F18560a"
+    },
+    {
+      "amount": "392156862745098039",
+      "grant_id": "46",
+      "recipient": "0xe23AAdb985d6d3f8220446b6a4072BA032bF43C5"
+    },
+    {
+      "amount": "313725490196078431",
+      "grant_id": "47",
+      "recipient": "0x1bB395Bb2d045D87e39387479c562c7d34093100"
+    },
+    {
+      "amount": "235294117647058824",
+      "grant_id": "48",
+      "recipient": "0x8d7f11b961C91ec7533486b0A9Ed73F93E923A22"
+    },
+    {
+      "amount": "156862745098039216",
+      "grant_id": "49",
+      "recipient": "0xA7347f5a4be9Ec8bb1E8Aec3C42137DaAF212DDb"
+    },
+    {
+      "amount": "78431372549019608",
+      "grant_id": "50",
+      "recipient": "0xCCcc113e0a0A11F1c0f7d6c620cD08D6Ee0D4f52"
+    }
+  ],
+  "pool_amount": "100000000000000000000",
+  "research": {
+    "evm_pool_is_independent": true,
+    "kind": "synthetic_benchmark",
+    "project_count": 50,
+    "weight_rule": "descending_integer"
+  },
+  "round_id": "10050",
+  "schema_version": "1",
+  "unallocated_amount": "0",
+  "vault_address": "0x7a2088a1bFc9d81c55368AE168C2C02570cB814F"
+}
