@@ -4,6 +4,10 @@
 
 Tác giả: **Nguyễn Đình Tú** · [Báo cáo học thuật](REPORT.md) · [Bằng chứng và giới hạn](docs/CLAIMS_EVIDENCE_LIMITS.md) · [Thông số gas](results/gas/phase3_gas_benchmark.md)
 
+![Giao diện chính của demo QF: trực giác chia ví, hệ số nén và so sánh matching](docs/assets/demo-overview.jpeg)
+
+*Giao diện Tab 01 trên Streamlit cục bộ; các giá trị trong ảnh là ví dụ minh họa, không phải kết quả đánh giá trên Gitcoin.*
+
 ## Dự án giải quyết gì?
 
 Standard QF thưởng cho nhiều khoản đóng góp độc lập, nhưng một người có thể chia đóng góp qua nhiều ví để tác động quỹ đối ứng. Dự án dựng đồ thị đồng đóng góp, phân cụm bằng Louvain, rồi so sánh chín cơ chế phân bổ trên các kịch bản tiêm tấn công có nhãn và cộng đồng ủng hộ organic. Phần EVM kiểm tra một luồng chi trả bằng Merkle proof và đo gas từ transaction receipt thật trên Hardhat cục bộ.
