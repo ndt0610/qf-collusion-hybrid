@@ -123,3 +123,7 @@ Dev phải chạy trước held-out để khóa `configs/heldout/frozen_mechanis
 ## Nguồn và giấy phép
 
 Xem [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES.md) và [DATA_CARD](docs/DATA_CARD.md). Code repo và dữ liệu Parquet tải riêng có trạng thái giấy phép khác nhau; không suy ra quyền tái phân phối dữ liệu từ giấy phép code portal.
+
+## Tác giả và quy trình phát triển
+
+Nguyễn Đình Tú là tác giả và chủ dự án. Quá trình phát triển có hỗ trợ của Codex trong việc đề xuất, viết/sửa mã, kiểm thử và tài liệu. Các kết luận chỉ được trình bày trong phạm vi số liệu, kiểm thử và giới hạn nêu trong [báo cáo](REPORT.md).
